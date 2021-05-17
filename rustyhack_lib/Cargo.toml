@@ -11,7 +11,7 @@ license = "AGPL-3.0"
 [dependencies]
 log = "0.4.14"
 simplelog = "0.10.0"
-serde = { version = "1.0.125", features = ["derive"] }
+serde = { version = "1.0.126", features = ["derive"] }
 console_engine = "1.5.1"
 uuid = { version = "0.8.2", features = ["serde", "v4"] }
 strum = "0.20.0"
