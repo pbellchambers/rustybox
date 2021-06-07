@@ -15,4 +15,4 @@ serde = { version = "1.0.125", features = ["derive"] }
 console_engine = "1.5.1"
 uuid = { version = "0.8.2", features = ["serde", "v4"] }
 strum = "0.20.0"
-strum_macros = "0.20.1"
+strum_macros = "0.21.1"
